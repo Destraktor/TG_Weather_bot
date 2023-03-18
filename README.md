@@ -19,10 +19,10 @@ _Hint: you can use [temporary mail](https://tempail.com/en/) :)_
 `WEATHER_API = 'Paste your API key here'`
 `Public_test_key = '8537d9ef6386cb97156fd47d832f479c'`
 
-3. Get the latest [Python](https://www.python.org/downloads/) version
+Get the latest [Python](https://www.python.org/downloads/) version
 
-4. Create a virtual environment. Not necessary, but highly recommended.
+Create a virtual environment. Not necessary, but highly recommended.
 
-5. Install requirements
+Install requirements
 
 `pip install -r requirements.txt`
