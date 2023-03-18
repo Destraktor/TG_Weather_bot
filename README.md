@@ -8,7 +8,8 @@ Create a new Telegram bot with [BotFather](https://web.telegram.org/k/#@BotFathe
 
 Copy and paste the API token into [config.py](weather_bot/config.py)
 
-`BOT_API_TOKEN = 'Paste your API token here'`
+`BOT_API_TOKEN = 'Paste your API token here'` \
+`My_token_bot = '6161665177:AAE2TZ6M9hYBAsAr7l-dJzOa8JTA5pjpkr4'`
 
 Create an account on [OpenWeatherMap](https://home.openweathermap.org/users/sign_up)
 
@@ -16,7 +17,7 @@ _Hint: you can use [temporary mail](https://tempail.com/en/) :)_
 
 Сopy and paste the API key into [config.py](shtosh-weather-bot/config.py)
 
-`WEATHER_API = 'Paste your API key here'`
+`WEATHER_API = 'Paste your API key here'` \
 `Public_test_key = '8537d9ef6386cb97156fd47d832f479c'`
 
 Get the latest [Python](https://www.python.org/downloads/) version
