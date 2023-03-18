@@ -25,4 +25,4 @@ _Hint: you can use [temporary mail](https://tempail.com/en/) :)_
 
 5. Install requirements
 
-`pip install -r requirements.txt``
+`pip install -r requirements.txt`
